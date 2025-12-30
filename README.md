@@ -29,7 +29,7 @@ Steny sú usporiadané po **päť do jedného riadku** a ich farby sa striedajú
 Po spustení programu si hráč zvolí počet riadkov stien (1 – 3), ktoré sa majú vygenerovať.
 
 <p align="center">
-  <img src="pictures/obr1.png" width="400" alt="Začiatok hry – výber počtu riadkov">
+  <img src="pictures/obr1.png" width="600" alt="Začiatok hry – výber počtu riadkov">
 </p>
 
 ---
@@ -39,7 +39,7 @@ Po spustení programu si hráč zvolí počet riadkov stien (1 – 3), ktoré sa
 Po potvrdení výberu sa hra spustí. Hráč ovláda platformu a snaží sa zničiť všetky steny.
 
 <p align="center">
-  <img src="pictures/obr2.png" width="400" alt="Priebeh hry">
+  <img src="pictures/obr2.png" width="600" alt="Priebeh hry">
 </p>
 
 ---
@@ -51,7 +51,7 @@ Ak sa loptička dotkne spodnej hrany obrazovky, hráč prehrá. Zobrazí sa okno
 - koľko stien bolo potrebné zničiť, aby vyhral
 
 <p align="center">
-  <img src="pictures/obr3.png" width="400" alt="Prehra hráča">
+  <img src="pictures/obr3.png" width="600" alt="Prehra hráča">
 </p>
 
 ---
@@ -134,5 +134,6 @@ Enum trieda, ktorá určuje aktuálny stav hry:
 - hra beží
 - hráč vyhral
 - hráč prehral
+
 
 
